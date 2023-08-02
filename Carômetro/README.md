@@ -10,3 +10,6 @@ Cadastro de alunos com nome e foto;
 Busca de alunos por RA ou nome;
 Indicação do status da conexão com o banco de dados;
 Exibição da data atual.
+
+<img width="459" alt="pri" src="https://github.com/Dionizioo/Linguagem-Java/assets/88460475/f4dc7173-c1a4-4766-a708-d43b2867c0a6">
+<img width="464" alt="seg" src="https://github.com/Dionizioo/Linguagem-Java/assets/88460475/68f0cb16-950d-4aa3-9b25-7abb556f10bf">
