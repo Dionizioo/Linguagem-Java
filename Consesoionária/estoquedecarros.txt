@@ -1,0 +1,14 @@
+Marca: Honda
+Modelo: hb20
+Ano: 2036
+Pre�o: 3666.0
+Tipo: Carro
+N�mero de Portas: 0
+
+Marca: Honda
+Modelo: flex
+Ano: 777
+Pre�o: 5000.0
+Tipo: Motocicleta
+Cilindradas: 0
+
