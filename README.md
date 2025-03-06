@@ -17,3 +17,6 @@ Bem-vindo ao repositório que abriga os resultados do meu aprendizado nos period
   
 ### Projeto 5: [ECommercePaymentSystem]
 - O "ECommercePaymentSystem" visa criar um sistema de pagamento flexível para um comércio eletrônico, permitindo a fácil troca entre diferentes provedores de pagamento. Este projeto abriga a implementação das classes relacionadas ao sistema de pagamento, ao "Carrinho de Compras" e ao "Agente Logístico".Ao longo do projeto, serão desenhadas classes, implementadas funcionalidades e aplicados padrões de projeto, demonstrando o entendimento e a aplicação dos conceitos aprendidos durante o curso.
+
+##Projeto 6: [Thread Manager]
+O projeto Thread Manager é uma aplicação Java desenvolvida com o objetivo de demonstrar a execução concorrente de threads. Com essa aplicação, é possível criar e gerenciar múltiplas threads que executam tarefas em paralelo, simulando processos com diferentes tempos de pausa. Cada thread imprime mensagens em um loop, permitindo observar o comportamento concorrente e o controle de execução por meio de pausas temporizadas. O projeto serve como um exemplo prático para entender o funcionamento de threads em Java e como elas podem ser utilizadas para tarefas simultâneas.
